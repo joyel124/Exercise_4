@@ -2,6 +2,10 @@
 
 A new Flutter project for practice.
 
+## Screenshot
+
+![screenshot](https://raw.githubusercontent.com/joyel124/Exercise_4/master/img/image.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
